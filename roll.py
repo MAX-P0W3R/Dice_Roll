@@ -1,4 +1,4 @@
-#!/etc/bin/usr python
+#!/etc/bin/usr python3
 
 import random
 print("Roll for initiative:")
